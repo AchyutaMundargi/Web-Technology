@@ -22,12 +22,13 @@ PROGRAM 3: TEXT
 
 ![Screenshot (7)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/3cd45518-38b8-46c0-9682-3e0bdc3aeb3c)
 
-PROGRAM 4: VOWEL POSITION
+PROGRAM 4: STRING
 #output
 
-PRO![Scre![Screenshot (8)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/727030b7-79ab-406c-8c28-e2f20ce4ba94)
-![Screenshot (9)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/45848aee-d250-4d23-8eee-0059acb237d5)
 
 
+![Screenshot (10)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/310afbef-6f0d-4367-bf08-b2a15241faf3)
 
+
+![Screenshot (11)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/2e058750-9b07-4633-9536-ddea095f5e54)
 
