@@ -1,39 +1,66 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<head><title>Program-4</title></head>
+<head>
+ <title>String and Number Functions</title>
+</head>
 <body>
-    <script type="text/javascript">
-        var str = prompt("Enter the Input", "");
-        if (!(isNaN(str)))  //isNaN means is Not a Number
-        {
-            var num, rev = 0,remainder;
-            num = parseInt(str);
-            while (num != 0)
-            {
-                remainder = num % 10;
-                num = parseInt(num / 10);
-                rev = rev * 10 + remainder;
-            }
-            alert("Reverse of " + str + " is " + rev);
-        } 
+ <h1>String and Number Functions</h1>
 
-        else
+ <!-- Problem A: Reverse a String -->
+ <h2>Problem A: Reverse a String</h2>
+ <label for="inputString">Enter a String:</label>
+ <input type="text" id="inputString">
+ <button onclick="reverseString()">Reverse</button>
+ <p id="outputA"></p>
 
-        {
-            str = str.toUpperCase();
-            for (var i = 0; i < str.length; i++)  //0,1,2,3
-            {
-                var chr = str.charAt(i);
-                if (chr == 'A' || chr == 'E' || chr == 'I' || chr == 'O' || chr == 'U') 
-                	break;
-            }
-            if (i < str.length)
-                alert("The position of the left most vowel is " + (i + 1));
-            else
-                alert("No vowel found in the entered string");
-        }
+ <!-- Problem B: Position of Left-Most Vowel -->
+ <h2>Problem B: Position of Left-Most Vowel</h2>
+ <label for="inputString2">Enter a String:</label>
+ <input type="text" id="inputString2">
+ <button onclick="leftMostVowel()">Find</button>
+ <p id="outputB"></p>
 
-    </script>
+ <!-- Problem C: Reverse a Number -->
+ <h2>Problem C: Reverse a Number</h2>
+ <label for="inputNumber">Enter a Number:</label>
+ <input type="number" id="inputNumber">
+ <button onclick="reverseNumber()">Reverse</button>
+ <p id="outputC"></p>
+
+ <script>
+  // Problem A: Reverse a String
+  function reverseString() {
+   var input = document.getElementById("inputString").value;
+   var output = "";
+   for (var i = input.length - 1; i >= 0; i--) {
+    output += input[i];
+   }
+   document.getElementById("outputA").innerHTML = output;
+  }
+
+  // Problem B: Position of Left-Most Vowel
+  function leftMostVowel() {
+   var input = document.getElementById("inputString2").value;
+   var vowels = ["a", "e", "i", "o", "u"];
+   for (var i = 0; i < input.length; i++) {
+    if (vowels.includes(input[i])) {
+     document.getElementById("outputB").innerHTML = "The left-most vowel is at position " + (i+1);
+     return;
+    }
+   }
+   document.getElementById("outputB").innerHTML = "No vowels found in the string.";
+  }
+
+  // Problem C: Reverse a Number
+  function reverseNumber() {
+   var input = document.getElementById("inputNumber").value;
+   var output = "";
+   while (input > 0) {
+    output += input % 10;
+    input = Math.floor(input / 10);
+   }
+   document.getElementById("outputC").innerHTML = output;
+  }
+ </script>
 </body>
-
 </html>
