@@ -44,3 +44,10 @@ PROGRAM 4: STRING
 
 ![Screenshot (11)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/2e058750-9b07-4633-9536-ddea095f5e54)
 
+
+
+
+PROGRAM 5:STUDENT INFO
+#output
+
+![Screenshot 2023-06-27 204439](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/3c6ffa5a-b4a1-489b-99c5-4c6b1a1b562f)
