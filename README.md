@@ -80,6 +80,16 @@ PROGRAM 8b:Matrix
 
 ![Screenshot 2023-06-27 225257 matrix](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/2853d21c-a58f-436f-99e2-3323aa294003)
 
+PROGRAM 9:SELECTION SORT
+#output
+
+![Screenshot 2023-06-27 230619](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/6406c314-c51e-4a91-a220-86e7df7032d5)
+
+PROGRAM 10:ARRAY
+#output
+![Screenshot 2023-06-27 231337](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/fa5c1429-2a8e-4166-9e85-faf9c148e9dd)
+
+
 
 
 
