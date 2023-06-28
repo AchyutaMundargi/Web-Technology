@@ -56,11 +56,13 @@ PROGRAM 5:STUDENT INFO
 PROGRAM 6:VISITORS
 
 #output
-![Screenshot (13)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/63453004-aa5b-41ce-bb6d-9ed3e6e47375)
+![Screenshot  refresh page](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/33ff727b-24be-470b-a0d4-e2e7bd167a16)
+
+
 
 PROGRAM 7:
+DIGITAL CLOCK
+#output
 
-
-
-
+![Screenshot (14) digital clock](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/3fd411c1-c8d3-48b4-8132-33cd92f6bf55)
 
