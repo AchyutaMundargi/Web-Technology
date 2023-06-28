@@ -82,10 +82,6 @@ PROGRAM 8b:Matrix
 
 
 
-PROGRAM 9:SELECTION SORT
-#Output
-![Screenshot 2023-06-27 230619](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/a664f3f6-c539-44d5-a4c9-38f6545f1bab)
-
 
 
 
