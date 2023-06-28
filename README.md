@@ -67,7 +67,7 @@ PROGRAM 7:DIGITAL CLOCK
 
 
 PROGRAM 8a:SIMPLE CALCULATOR
-
+#Output
 ![Screenshot 2023-06-27 224805 simple calculator](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/1992ecf1-84d2-4426-bbae-8390907680ef)
 
 
@@ -75,8 +75,23 @@ PROGRAM 8a:SIMPLE CALCULATOR
 
 ![Screenshot 2023-06-27 224934 calci](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/540fac38-8ee0-46f5-877d-3df8151e5049)
 
-
 PROGRAM 8b:Matrix
-
+#Output
 
 ![Screenshot 2023-06-27 225257 matrix](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/2853d21c-a58f-436f-99e2-3323aa294003)
+
+
+
+PROGRAM 9:SELECTION SORT
+#Output
+![Screenshot 2023-06-27 230619](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/a664f3f6-c539-44d5-a4c9-38f6545f1bab)
+
+
+
+
+
+
+
+
+
+
