@@ -51,3 +51,14 @@ PROGRAM 5:STUDENT INFO
 #output
 
 ![Screenshot 2023-06-27 204439](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/3c6ffa5a-b4a1-489b-99c5-4c6b1a1b562f)
+
+
+PROGRAM 6:VISITORS
+
+#output
+![Screenshot (13)](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/63453004-aa5b-41ce-bb6d-9ed3e6e47375)
+
+
+
+
+
