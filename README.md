@@ -60,9 +60,23 @@ PROGRAM 6:VISITORS
 
 
 
-PROGRAM 7:
-DIGITAL CLOCK
+PROGRAM 7:DIGITAL CLOCK
 #output
 
 ![Screenshot (14) digital clock](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/3fd411c1-c8d3-48b4-8132-33cd92f6bf55)
 
+
+PROGRAM 8a:SIMPLE CALCULATOR
+
+![Screenshot 2023-06-27 224805 simple calculator](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/1992ecf1-84d2-4426-bbae-8390907680ef)
+
+
+
+
+![Screenshot 2023-06-27 224934 calci](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/540fac38-8ee0-46f5-877d-3df8151e5049)
+
+
+PROGRAM 8b:Matrix
+
+
+![Screenshot 2023-06-27 225257 matrix](https://github.com/AchyutaMundargi/Web-Technology/assets/136096584/2853d21c-a58f-436f-99e2-3323aa294003)
